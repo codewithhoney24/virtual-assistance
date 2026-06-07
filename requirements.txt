@@ -1,6 +1,8 @@
-streamlit==1.31.0
+streamlit>=1.36.0
 nltk==3.8.1
 requests==2.31.0
 qrcode==7.4.2
 python-dotenv==1.0.0
-google-generativeai==0.7.2
+google-generativeai>=0.8.0
+twilio==9.10.9
+pandas>=2.0.0

@@ -1,0 +1,14 @@
+.git
+.env
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.db
+nexushealth.db
+appointments_db.pkl
+.ipynb_checkpoints
+.DS_Store
+.streamlit/config.toml
+qr_codes/
+logs/
